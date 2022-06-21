@@ -1,5 +1,5 @@
 pandas==0.23.4
-numpy==1.15.4
+numpy==1.22.0
 matplotlib==3.0.2
 wordcloud==1.5.0
 pydot==1.4.1
