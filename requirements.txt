@@ -7,4 +7,4 @@ sklearn==0.20.1
 PIL==5.3.0
 shap==0.24.0
 googlemaps==3.0.2
-requests==2.21.0
+requests==2.31.0
